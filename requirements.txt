@@ -4,5 +4,5 @@ python-multipart
 pillow
 numpy
 --extra-index-url https://download.pytorch.org/whl/cpu
-torch==2.5.1
+torch==2.10.0
 torchvision==0.25.0
